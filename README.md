@@ -2,7 +2,7 @@
 
 Welcome to the Stock Price Prediction Application, where we utilize advanced statistical techniques to forecast stock prices and empower investors with valuable insights. This application provides a comprehensive toolkit for data preparation, modeling, evaluation, and even includes a web interface with Streamlit for interactive predictions.
 
-![stock-market-analysis-concept_23-2148604771](https://github.com/tuanng1102/stock-price-prediction-app/assets/147653892/1a4254b8-9061-424d-aabd-b76a8ec77105)
+![stock-price-prediction](https://github.com/user-attachments/assets/aecc18a4-538e-499f-be5b-e06f187f6f05)
 
 ## Overview
 
